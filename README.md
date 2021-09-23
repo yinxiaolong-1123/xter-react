@@ -1,2 +1,0 @@
-# xter-react
-xterm

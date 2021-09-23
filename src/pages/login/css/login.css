@@ -1,0 +1,19 @@
+.ant-form-item-label > label.ant-form-item-required:not(.ant-form-item-required-mark-optional)::before{
+    content: '';
+}
+.ip-text{
+    width: 120px;
+    text-align: left;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-bottom: 0;
+    background: #000;
+    color: #fff;
+}
+.ant-form-item-label > label::after{
+    content: '';
+}

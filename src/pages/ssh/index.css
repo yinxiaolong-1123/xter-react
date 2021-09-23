@@ -1,0 +1,51 @@
+.terminal-btn{
+    height: 50px;
+    width: 100%;
+    background: #eee;
+    border-radius: 5px;
+    padding: 10px;
+}
+.setting-btn{
+    /* margin-right: 0px; */
+}
+.file-btn{
+    text-align: right;
+}
+.file-btn button{
+    margin-right: 10px;
+}
+.select-list ul{
+    list-style: none;
+    padding: 0;
+}
+.select-list ul li{
+    height: 30px;
+    line-height: 30px;
+    width: 90%;
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+    border: 1px solid #e4e4e4;
+    cursor: pointer;
+}
+.select-list ul li:hover{
+    color: red;
+    background: cornsilk;
+}
+.setting-btn{
+    /* height: 32px;
+    line-height: 32px; */
+    text-align: left;
+}
+/* .setting-btn > :last-child{
+    display: inline-block;
+} */
+.setting-btn > :first-child{
+    font-size: 18px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.setting-btn{
+    display: flex;
+    height: 35px;
+}

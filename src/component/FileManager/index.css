@@ -1,0 +1,43 @@
+.ant-upload.ant-upload-select{
+    float: right;
+    margin-right: 10px;
+}
+.upload-file-content{
+    clear: both;
+    margin-top: 20px;
+}
+.ant-layout-sider{
+    border: 1px solid #e4e4e4;
+}
+.ant-layout.ant-layout-has-sider > .ant-layout, .ant-layout.ant-layout-has-sider > .ant-layout-content{
+    border: 1px solid #e4e4e4;
+    border-left-width: 0;
+}
+.path-input{
+    
+}
+.down{
+    float: right;
+}
+.ant-tree .ant-tree-node-content-wrapper{
+    width: 100% !important;
+    cursor: default;
+}
+.ant-tree .ant-tree-treenode{
+    width: 100% !important;
+}
+.ant-tree .ant-tree-node-content-wrapper:hover{
+    background: #bae7ff;
+}
+.tree-root1:hover{
+    background: #bae7ff;
+}
+.tree-root{
+    background: #bae7ff;
+    border-radius: 2px;
+    padding-left: 10px;
+}
+.tree-root1{
+    border-radius: 2px;
+    padding-left: 10px;
+}
